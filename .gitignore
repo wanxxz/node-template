@@ -1,0 +1,12 @@
+/*
+
+!.gitignore
+
+!.editorconfig
+!.huskyrc
+!.lintstagedrc
+!.prettierrc
+
+!README.md
+
+!packages

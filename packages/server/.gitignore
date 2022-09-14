@@ -1,0 +1,9 @@
+/*
+
+!.gitignore
+
+!src
+
+!package.json
+!tsconfig.json
+!jest.config.js
